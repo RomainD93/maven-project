@@ -5,7 +5,7 @@ public class Greeter {
 
   
   public Greeter() {
-
+  //comment
   }
 
   public final String greet(final String someone) {
