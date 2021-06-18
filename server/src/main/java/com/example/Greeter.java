@@ -9,7 +9,6 @@ public class Greeter {
  * constructeur. 
  */
   public Greeter() {
-  /** blabal */
   }
 
  /**
