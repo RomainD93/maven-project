@@ -5,8 +5,8 @@ package com.example;
   */
 public class Greeter {
 
- /** 
- * constructeur. 
+ /**
+ * Constructeur.
  */
   public Greeter() {
   }
