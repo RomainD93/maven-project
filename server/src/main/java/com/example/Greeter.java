@@ -3,14 +3,14 @@ package com.example;
 
 public class Greeter {
 
-  //comment
+ /** blabal */
   public Greeter() {
-  //comment
+  /** blabal */
   }
 
-  //comment
+  /** blabal */
   public final String greet(final String someone) {
-    //comment
+    /** blabal */
     return String.format("Hello babacar, %s!", someone);
   }
 }
