@@ -1,6 +1,8 @@
 package com.example;
 
-/** blabal */
+ /**
+  * Résumé du rôle de la classe.
+  */
 public class Greeter {
 
  /** blabal */
