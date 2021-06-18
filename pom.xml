@@ -216,5 +216,15 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+         
+         <reporting>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>findbugs-maven-plugin</artifactId>
+        <version>3.0.6-SNAPSHOT</version>
+      </plugin>
+    </plugins>
+  </reporting>
 
 </project>
