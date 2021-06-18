@@ -10,11 +10,12 @@ public class Greeter {
   /** blabal */
   }
 
-  /**
- * Description
- *
- * @tag1
- */
+ /**
+  * Résumé du rôle de la méthode.
+  * Commentaires détaillés sur le role de la methode
+  * @param someone la valeur a traiter
+  * @return la valeur calculée
+  */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
