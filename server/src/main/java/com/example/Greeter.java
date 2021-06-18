@@ -10,7 +10,6 @@ public class Greeter {
 
   /** blabal */
   public final String greet(final String someone) {
-    /** blabal */
     return String.format("Hello babacar, %s!", someone);
   }
 }
